@@ -118,6 +118,10 @@ img {
     height: auto;
 }
 
+img.logo-top {
+    width: 150px;
+}
+
 ul,
 ol {
     margin: 0;
@@ -1472,7 +1476,7 @@ p.artficial:before{
 }
 .services-block-four{
   position:relative;
-  margin-bottom:30px;
+  margin-bottom: 15px;
 }
 .icon-img-box{
     position: absolute;
@@ -1494,7 +1498,7 @@ p.artficial:before{
 }
 .features .services-block-four{
     box-shadow: 0 2px 6px 0 #B5BEC9;
-    padding: 30px 20px 20px;
+    padding: 15px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
@@ -1978,7 +1982,7 @@ p.artficial:before{
     border: 1px solid #25cbd3;
     border-radius: 10px;
     padding: 19px 36px;
-    padding-left: 65px;
+    padding-left: 20px;
     background-color: #fff;
     width: 100%;
     position: relative;
@@ -2110,8 +2114,8 @@ p.artficial:before{
 */
 .section_5-content {
     width: 100%;
-    padding-top: 200px;
-    padding-bottom: 200px
+    padding-top: 213px;
+    padding-bottom: 200px;
 }
 
 .section_5-slider-trumb {
@@ -3319,7 +3323,7 @@ textarea:required {
     font-size: 20px
 }
 .footer-logo img{
-    width: 40px
+    width: 150px;
 }
 .footer-side-thumbnail {
     position: absolute;
@@ -3671,13 +3675,13 @@ textarea:required {
 }
 .spread-map .s-list-icon{
     position: absolute;
-    top: 8px;
-    padding: 7px;
+    top: 6px;
+    padding: 3px;
     border: 1px solid;
     left: 0;
 }
 .spread-map .s-list-desc{
-    padding-left: 45px;
+    padding-left: 30px;
 }
 .counter-wrapper{
     position: relative;
@@ -3842,18 +3846,18 @@ textarea:required {
     transform: translate3d(0,0,0);
 }
 .s-list li {
-    margin-bottom: 10px;
+    margin-bottom: 0;
     color: #777;
     position: relative;
-    font-size: 15px
+    font-size: 15px;
 }
 .s-list span.fa {
-    font-size: 16px;
+    font-size: 8px;
     color: #5892f5;
     margin-right: 10px;
 }
 .spread-map .s-list li{
-    min-height: 50px
+    min-height: 20px;
 }
 .spread-map .single-service-item{
     min-height: 519px
@@ -4398,8 +4402,8 @@ body.light-version {
 
 .light-version .service_single_content {
     padding: 40px 10px 20px;
-    background: #f2f4f8;
-    margin-bottom: 30px !important
+    background: #d3d7e2;
+    margin-bottom: 30px !important;
 }
 .light-version .services-block-four .inner-box h3 a{
     color: #222

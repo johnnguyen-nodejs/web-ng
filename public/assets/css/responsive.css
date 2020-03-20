@@ -102,6 +102,10 @@
     .section-heading h2 {
         font-size: 24px;
     }
+
+.not-date {
+    display: none;
+}
     .post-meta p a {
         margin-right: 15px;
     }
